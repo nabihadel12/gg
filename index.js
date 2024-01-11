@@ -8,6 +8,8 @@ const generated = new Set();
 const server = require('./server.js');
 const commands = require('./deploy-commands.js')
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
+const keep_alive = require(`./keep_alive.js`)
+
 
 client.commands = new Collection();
 const commandFiles = fs
