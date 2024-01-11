@@ -1,0 +1,32 @@
+{
+  "token": "MTE5MjQ0ODMzNzAxMDQ5OTcxNQ.G5CQKR.3U1ZP7zM1OZr7xOsyMX-9-csqyubkm7QagieHs",  
+  "username": "bbee",
+  "password": "bbee", 
+
+  "port": "3005",
+  
+  "clientId": "1192448337010499715",
+  "guildId": "1176932103426953216",
+  "globalDeploy": false,
+
+  "status": "Made By The Plague",
+  "website": "Soon",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By The Plague",
+
+  "genChannel": "1192446305918783548",
+  "premiumChannel": "1192450951919980674",
+  "genCooldown": "3600",
+  "premiumCooldown": "1800",
+
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
